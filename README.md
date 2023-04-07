@@ -11,3 +11,6 @@
 This is an example of a GitHub repository.
 
 Making a change
+
+
+Some more changes
